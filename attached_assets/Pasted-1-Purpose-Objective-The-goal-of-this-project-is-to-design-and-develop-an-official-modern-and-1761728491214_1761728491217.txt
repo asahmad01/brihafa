@@ -1,0 +1,47 @@
+1. 🎯 Purpose & Objective
+The goal of this project is to design and develop an official, modern, and credible corporate website for Brihafa Iron Ore Mining Company, showcasing its:
+Core operations in iron ore and mineral mining.
+Leadership and management team.
+Mission, values, and investment opportunities.
+Location and contact channels.
+The website will serve as a digital identity that builds investor confidence and public credibility through strong visuals and clear information.
+2. 🧍‍♂️ Target Audience
+Group	Goal / Motivation
+Investors & Partners	Assess company credibility, leadership, and investment opportunities.
+Government & Regulatory Bodies	Review company background and compliance information.
+Public & Media	Access official company details, announcements, and contact information.
+Internal Staff / Directors	Reference company presence for professional communication.
+3. 🏗️ Core Website Sections
+3.1. Home Page
+Hero section: large banner image or video of mining operations or machinery.
+Tagline example: “Building Nigeria’s Iron Future.”
+Quick statistics (e.g., “10+ years of excellence”, “500,000 tons annual capacity”).
+Clear call-to-action buttons: Learn More, Our Projects, Contact Us.
+3.2. About Us
+Overview of Brihafa’s history, mission, and values.
+Mission statement section.
+Vision statement section.
+Our Directors
+A professional section highlighting key executives and directors.
+Layout: grid or cards showing:
+Director’s photo
+Name and role
+Short bio (2–3 lines)
+Optional links to LinkedIn or email (for credibility).
+3.3. Operations / Projects
+Overview of mining activities, including stone and mineral focus.
+Visuals of equipment, mining processes, or fieldwork.
+Short descriptions of active sites or projects.
+3.4. Sustainability / CSR
+Outline of the company’s environmental and community responsibility.
+Examples of local impact, community engagement, or eco-friendly practices.
+3.5. Investment
+Overview of Brihafa’s investment approach.
+Highlights of growth potential and partnership opportunities.
+Clear “Contact for Investment” button or link to email.
+3.6. Contact
+Contact form (Name, Email, Message).
+Google Map showing company location.
+Display of address, email, and phone number.
+“Swipe to end” footer area with call-to-action text such as:
+“Interested in learning more? Contact us today.”
